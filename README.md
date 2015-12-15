@@ -10,4 +10,6 @@ After learning to code in HTML and CSS, I thought about creating a sample websit
 
 <h1> How to Preview </h1>
 
-URL: http://htmlpreview.github.io/?https://raw.github.com/twbs/bootstrap/gh-pages/2.3.2/index.html
+Prepend to the URL "http://htmlpreview.github.io/?" or click the provided URL below:
+
+URL: http://htmlpreview.github.io/?https://github.com/rpham64/google-homepage.git
