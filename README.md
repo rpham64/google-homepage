@@ -12,4 +12,4 @@ After learning to code in HTML and CSS, I thought about creating a sample websit
 
 Prepend to the URL "http://htmlpreview.github.io/?" or click the provided URL below:
 
-URL: http://htmlpreview.github.io/?https://github.com/rpham64/google-homepage.git
+URL: http://htmlpreview.github.io/?https://github.com/rpham64/google-homepage/blob/master/index.html
